@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/TracabilityApp/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/TracabilityApp/static/js/main.5d16cc98.chunk.js",
+    "main.js.map": "/TracabilityApp/static/js/main.5d16cc98.chunk.js.map",
+    "runtime-main.js": "/TracabilityApp/static/js/runtime-main.43e81728.js",
+    "runtime-main.js.map": "/TracabilityApp/static/js/runtime-main.43e81728.js.map",
+    "static/js/2.3f701038.chunk.js": "/TracabilityApp/static/js/2.3f701038.chunk.js",
+    "static/js/2.3f701038.chunk.js.map": "/TracabilityApp/static/js/2.3f701038.chunk.js.map",
+    "static/js/3.5e4c177f.chunk.js": "/TracabilityApp/static/js/3.5e4c177f.chunk.js",
+    "static/js/3.5e4c177f.chunk.js.map": "/TracabilityApp/static/js/3.5e4c177f.chunk.js.map",
+    "index.html": "/TracabilityApp/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/TracabilityApp/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.3f701038.chunk.js.LICENSE.txt": "/TracabilityApp/static/js/2.3f701038.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.43e81728.js",
+    "static/js/2.3f701038.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.5d16cc98.chunk.js"
+  ]
+}
