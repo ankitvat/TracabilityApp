@@ -1,7 +1,7 @@
 {
   "name": "tracability",
   "version": "0.1.0",
-  "homepage": "hhtp://ankitvat.github.io/TracabilityApp",
+  "homepage": "http://ankitvat.github.io/TracabilityApp",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
